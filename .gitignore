@@ -1,0 +1,6 @@
+# Confidential source documents. Never commit these to the public repo.
+brand-resources/
+*.pdf
+
+.DS_Store
+.claude/
